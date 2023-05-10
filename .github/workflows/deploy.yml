@@ -1,6 +1,6 @@
 name: compilar y publica
 on:
-  puhs:
+  push:
     branches:
       - main
 jobs:
@@ -26,4 +26,3 @@ jobs:
         with:
           branch: gh-pages
           folder: dist
-          
