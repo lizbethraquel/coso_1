@@ -3,6 +3,7 @@
     <h1>This is an about page</h1>
   </div>
   <lizbeth/>
+  <mytitle :title="aboutTitle"/>
 
 </template>
 
@@ -18,4 +19,7 @@
 
 <script setup>
   import lizbeth from '../components/Nav.vue'
+  import mytitle from '../components/mytitle.vue';
+
+  const aboutTitle ="Soy about"
 </script>
