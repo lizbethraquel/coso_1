@@ -1,0 +1,1 @@
+import{o as e,c as a,a as o,F as s,b as t,_ as c}from"./index-e248fd70.js";const r=t("h1",null," es un coso prueba",-1),p={__name:"hola",setup(n){return(_,l)=>(e(),a(s,null,[r,o(c,{title:"Hola soy el gato prueba"})],64))}};export{p as default};

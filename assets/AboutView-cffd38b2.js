@@ -1,1 +1,0 @@
-import{o as a,c as t,a as s,F as o,b as e,l as _}from"./index-ecca7429.js";const n=e("div",{class:"about"},[e("h1",null,"This is an about page")],-1),i={__name:"AboutView",setup(c){return(l,r)=>(a(),t(o,null,[n,s(_)],64))}};export{i as default};
